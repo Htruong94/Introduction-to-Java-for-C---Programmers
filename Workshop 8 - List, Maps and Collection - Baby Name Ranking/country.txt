@@ -1,0 +1,25 @@
+China,Beijing
+India,New Delhi
+Japan,Tokyo
+Russia,Moscow
+Mexico,Mexico City
+Canada,Ottawa
+Indonesia,Jakarta
+South Korea,Seoul
+Egypt,Cairo
+United Kingdom,London
+Bangladesh,Dhaka
+Peru,Lima
+Iran,Tehran
+Thailand,Bangkok
+Vietnam,Hanoi
+Saudi Arabia,Riyadh
+Colombia,Bogota
+Iraq,Baghdad
+Chile,Santiago
+Singapore,Singapore
+Turkey,Ankara
+Germany,Berlin
+Syria,Damascus
+United States of America,Washington
+Afghanistan,Kabul
